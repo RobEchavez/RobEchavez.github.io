@@ -1,0 +1,180 @@
+img{ 
+
+width: 350px;
+
+}
+.profile{
+ border: 3px solid black;
+ padding: 10px;
+ margin: 0;
+ width: 350px;
+ background-color: bisque;
+ float: left;
+ margin-bottom: 15px;
+ height:599px;
+
+
+}
+.profile h1{
+text-align: center;
+font-family: Roboto;
+}
+.profile h2{
+text-align: center;
+font-family: Roboto;
+}
+
+.nav{
+border: 3px solid black;
+width: 935px;
+float: right;
+background-color: bisque;
+}
+.nav h1{
+text-align: center;
+font-family: Roboto;
+font-size: 32px;
+}
+
+.container{
+    border: 3px solid black;
+    float:right;
+    margin-top: 15px;
+    width: 935px;
+    height: 516px;
+}
+.HTML1{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML1 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: black;
+}
+.HTML2{
+border:3px solid black;
+height: 65px;
+margin: 2px;    text-align: center;
+background-color: bisque;
+}    
+.HTML2 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: black;
+}
+.HTML3{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML3 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: BLACK;
+}
+.HTML4{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML4 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: black;
+}
+.HTML5{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML5 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: black;
+}
+.HTML6{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML6 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: BLACK;
+}
+.HTML7{
+border:3px solid black;
+height: 65px;
+margin: 2px;
+text-align: center;
+background-color: bisque;
+}
+.HTML7 a{
+margin: auto;
+text-decoration: none;
+font-family: Roboto;
+font-size: 40px;
+color: BLACK;
+}
+.HTML1:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML2:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML3:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML4:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML5:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML6:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+
+.HTML7:hover{
+box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
+transform: scale(1.01);
+}
+body {
+background-color: burlywood;
+
+}
